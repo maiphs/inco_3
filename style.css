@@ -1,0 +1,110 @@
+header {
+    background-color: #04054b;
+    padding: 20px 0;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.Introduction {
+    text-align: center;
+    margin: 50px 5%;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.intropara {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.box1 {
+    background: #0f054b;
+    width: 60%;
+    padding: 10px 5px 15px 5px;
+    margin: 80px auto 80px auto;
+}
+
+.topimage {
+    display: flex;
+    margin: 0 10px;
+}
+
+.top-text {
+    color: #eab009;
+    font-family: 'Roboto', sans-serif;
+    width: 60%;
+    padding-right: 10px;
+}
+
+
+.big-image {
+    width: 40%;
+    padding: 10px 0;
+}
+
+.big-image img{
+    width: 100%;
+}
+
+.big-image-2 {
+    width: 40%;
+    padding: 10px 0;
+}
+
+.big-image-2 img{
+    width: 100%;
+}
+
+.small-images {
+    width: 18%;
+}
+
+.five-images1 {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    align-items: center;
+}
+
+.five-images2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    align-items: center;    
+}
+
+.box2 {
+    background: #0f054b;
+    width: 60%;
+    padding: 10px 5px 15px 5px;
+    margin: 80px auto 80px auto;
+}
+
+.topimage-box2 {
+    display: flex;
+    margin: 0 10px;
+    color:#ff3d38;
+}
+
+.top-text-2 {
+    color: #ff3d38;
+    font-family: 'Roboto', sans-serif;
+    width: 60%;
+    padding-right: 10px;
+}
+
+footer {
+    background: #0f054b;
+    padding: 20px 10px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
+}
+
